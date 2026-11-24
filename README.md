@@ -260,8 +260,8 @@ http://127.0.0.1:5000/
 
 ## 👨‍💻 Author/Contributors
 
-"Vinutha" and "Thanushree PH"
-- Repository: [Fake_News_Detection GitHub](https://github.com/vinuthahemanth7620-ux/Fake_News_Detection)
+"Vrushti AU"
+- Repository: [Fake_News_Detection GitHub](https://github.com/vrushtiau5-alt/Fake_News_Detection)
 
 ---
 
