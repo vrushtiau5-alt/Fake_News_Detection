@@ -173,7 +173,7 @@ Confusion Matrix:
 
 ### 2. Clone Repository
 ```bash
-git clone https://github.com/vinuthahemanth7620-ux/Fake_News_Detection.git
+git clone https://github.com/vrushtiau5-alt/Fake_News_Detection.git
 cd Fake_News_Detection
 ```
 
